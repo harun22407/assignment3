@@ -1,0 +1,12 @@
+1-First create the Index page:-
+     a- Create the navbar using nab-pills or nav-tab in bootsrap.
+     b- Using dropdown option, create the link for profiles of different persons.
+     c- Use modals of bootsrap for creating login and SignUp page.
+     d- Add contact page using form.
+
+2- Now create the cards using cards option in bootsrap and modify it according to our need. Also add the link to redirect it to the desired  page.
+
+3- Add the images in the cards as per required.
+
+4- Add profile links to redirect it to the desired person's profile.
+
